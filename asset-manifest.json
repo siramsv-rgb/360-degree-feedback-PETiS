@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/360-degree-feedback-PETiS/static/css/main.e6c13ad2.css",
+    "main.js": "/360-degree-feedback-PETiS/static/js/main.bd8e034e.js",
+    "static/js/453.be664431.chunk.js": "/360-degree-feedback-PETiS/static/js/453.be664431.chunk.js",
+    "index.html": "/360-degree-feedback-PETiS/index.html",
+    "main.e6c13ad2.css.map": "/360-degree-feedback-PETiS/static/css/main.e6c13ad2.css.map",
+    "main.bd8e034e.js.map": "/360-degree-feedback-PETiS/static/js/main.bd8e034e.js.map",
+    "453.be664431.chunk.js.map": "/360-degree-feedback-PETiS/static/js/453.be664431.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.bd8e034e.js"
+  ]
+}
